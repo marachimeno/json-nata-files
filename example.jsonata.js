@@ -1,5 +1,3 @@
 {
-  "name": {
-    "firstName": Person.name
-  }
+  "name": Person.name
 }
