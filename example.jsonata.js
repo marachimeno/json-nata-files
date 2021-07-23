@@ -1,5 +1,5 @@
 {
   "name": {
-    "firstName": "Mara"
+    "firstName": Person.name
   }
 }
