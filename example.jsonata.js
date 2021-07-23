@@ -1,3 +1,3 @@
 {
-  "name": Person.name
+  "name": Info.age
 }
